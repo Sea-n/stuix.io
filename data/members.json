@@ -1,0 +1,170 @@
+[
+  {
+    "ASN": "17413",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "ALLPASS TRAVEL SERVICE CO.,LTD.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "17414",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "TeamT5 Inc.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "17415",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "MingYi Tea Farm",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "17418",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "Hong Da Storage Equipment Co., Ltd.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "17422",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "TeamT5 Inc.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "18041",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "Taiwan Digital Streaming Co.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "46997",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "US",
+    "Org": "Nato Research Ltd.",
+    "NIC": "ARIN"
+  },
+  {
+    "ASN": "131657",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "Huang Hr Co., Ltd.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "131662",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "Denpa Ltd.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "131668",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "Taiwan Digital Streaming Co.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "131669",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "TeamT5 Inc.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "131670",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "TeamT5 Inc.",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "131682",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "MingYi Tea Farm",
+    "NIC": "TWNIC"
+  },
+  {
+    "ASN": "134098",
+    "IPv4": true,
+    "IPv6": false,
+    "Country": "HK",
+    "Org": "Licson Internet Service",
+    "NIC": "APNIC"
+  },
+  {
+    "ASN": "140506",
+    "IPv4": false,
+    "IPv6": true,
+    "Country": "JP",
+    "Org": "Shimada Burazazu Technology LLC",
+    "NIC": "APNIC"
+  },
+  {
+    "ASN": "141173",
+    "IPv4": false,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "YI NETWORK",
+    "NIC": "APNIC"
+  },
+  {
+    "ASN": "205610",
+    "IPv4": false,
+    "IPv6": true,
+    "Country": "NL",
+    "Org": "Huanjie Zhu",
+    "NIC": "RIPE"
+  },
+  {
+    "ASN": "207468",
+    "IPv4": false,
+    "IPv6": true,
+    "Country": "DE",
+    "Org": "Li-Heng Yu",
+    "NIC": "RIPE"
+  },
+  {
+    "ASN": "207469",
+    "IPv4": false,
+    "IPv6": true,
+    "Country": "DE",
+    "Org": "Sung-Yu Li",
+    "NIC": "RIPE"
+  },
+  {
+    "ASN": "209557",
+    "IPv4": true,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "TSUNGYI YU",
+    "NIC": "RIPE"
+  },
+  {
+    "ASN": "212666",
+    "IPv4": false,
+    "IPv6": true,
+    "Country": "TW",
+    "Org": "TSUNG-YING WU",
+    "NIC": "RIPE"
+  }
+]
